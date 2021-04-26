@@ -1,1 +1,8 @@
-### Aim of the experiment
+Structural members that support compressive axial loads are called Columns. A column in structural engineering is a vertical structural element that transmits, through compression, the weight of the structure above to other structural elements below.
+
+#### Objective
+
+To determine the Column stability using boundary conditions.
+
+
+[Read more](http://bsa-iiith.vlabs.ac.in/exp4/Exp-4%20Columns.pdf)
