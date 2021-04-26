@@ -5,4 +5,4 @@ In general if a beam element is under a compressive load and its length is an or
 
 
 
-[Read more](http://bsa-iiith.vlabs.ac.in/exp4/Exp-4 Columns.pdf)
+[Read more](http://bsa-iiith.vlabs.ac.in/exp4/Exp-4%20Columns.pdf)
