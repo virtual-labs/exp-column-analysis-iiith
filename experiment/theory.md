@@ -3,4 +3,6 @@ In general if a beam element is under a compressive load and its length is an or
 
 <img src="images/buckling.jpg">
 
+
+
 [Read more](http://bsa-iiith.vlabs.ac.in/exp4/Exp-4 Columns.pdf)
