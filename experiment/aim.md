@@ -4,5 +4,3 @@ Structural members that support compressive axial loads are called Columns. A co
 
 To determine the Column stability using boundary conditions.
 
-
-[Read more](http://bsa-iiith.vlabs.ac.in/exp4/Exp-4%20Columns.pdf)

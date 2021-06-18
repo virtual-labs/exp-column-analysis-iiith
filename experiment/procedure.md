@@ -20,5 +20,3 @@ Procedure for the experiment is as follows.
 |Column|3.Fixed-Pinned buckling load|   |   |   |   |   |   |   |
 |Column|4.Fixed-Pinned column buckling load|   |   |   |   |   |   |   |
 
-
-[Read more](http://bsa-iiith.vlabs.ac.in/exp4/Exp-4%20Columns.pdf)
