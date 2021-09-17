@@ -20,3 +20,5 @@ Procedure for the experiment is as follows.
 |Column|3.Fixed-Pinned buckling load|   |   |   |   |   |   |   |
 |Column|4.Fixed-Pinned column buckling load|   |   |   |   |   |   |   |
 
+
+<a href="docs/Exp-4 Columns.pdf">[Read more]</a>
