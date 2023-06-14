@@ -1,0 +1,1 @@
+- To determine the Column stability using boundary conditions.
